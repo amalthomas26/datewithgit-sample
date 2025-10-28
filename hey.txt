@@ -4,3 +4,4 @@
 
 "made some changes"
 "vs code terminal"
+"failures are the steps to success"
